@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Viaje a Orlando</title>
+  <style>
+    .mapas {
+      display:inline-block;
+      width:24%;
+    }     
+    .container {
+      display: flex-container;
+      width: 100%;
+      margin: 20px
+    }
+    .cont {
+      display: inline-block;
+      width: 48%;
+    }
+    h1 {
+      font-family: Rockwell;
+      font-size: 50px;
+      border: 4px;
+      text-align: center;
+      margin: 2px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Titulo e Intro-->
+  <div class="flourish-embed flourish-number-ticker" data-src="visualisation/17757620"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  <div class="flourish-embed flourish-number-ticker" data-src="visualisation/17757507"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  
+  <!-- Primeros dos graficos (pie y barras horizontales) -->
+  <div class="container">
+    <div class="cont">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/17756899"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    <div class="cont">
+      <div class="flourish-embed flourish-pictogram" data-src="visualisation/17671322"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+  </div>
+    
+  <!-- Foto de Mapas 
+  <div class="flourish-embed flourish-cards" data-src="visualisation/17668460"><script src="https://public.flourish.studio/resources/embed.js"></script></div> -->
+
+  <!-- Relacion Parque - Mundo - Juego -->
+  <div class="flourish-embed flourish-number-ticker" data-src="visualisation/17758882"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  <div class="flourish-embed flourish-hierarchy" data-src="visualisation/17746132"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+    <!-- Mapas de Parques -->
+  <div class="container">
+    <div class="flourish-embed flourish-number-ticker" data-src="visualisation/17757876"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    <div class="mapas">
+      <div class="flourish-embed flourish-map" data-src="visualisation/17753211"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    <div class="mapas">
+      <div class="flourish-embed flourish-map" data-src="visualisation/17754305"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    <div class="mapas">
+       <div class="flourish-embed flourish-map" data-src="visualisation/17754387"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    <div class="mapas">
+      <div class="flourish-embed flourish-map" data-src="visualisation/17753248"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+  </div>
+  
+  <!-- Graficos de Tiempos de Espera -->
+  <div class="container">
+    <div class="flourish-embed flourish-number-ticker" data-src="visualisation/17757850"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    <div class="cont">
+      <div class="flourish-embed flourish-scatter" data-src="visualisation/17674049"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    
+    <div class="cont">
+      <div class="flourish-embed flourish-bubble-chart" data-src="visualisation/17756417"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+  </div>
+  
+  <!-- Grafico Disney Springs -->
+  <div class="container">
+    <div class="cont">
+      <div class="flourish-embed flourish-map" data-src="visualisation/17758592"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    
+    <div class="cont">
+      <div class="flourish-embed flourish-number-ticker" data-src="visualisation/17758824"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <div class="flourish-embed flourish-table" data-src="visualisation/17758289"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>  
+  </div>
+
+</body>
+</html>
